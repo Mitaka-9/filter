@@ -1,5 +1,5 @@
 # tvple filter
-======
+
 tvple filter는 Adblock Plus, uBlock Origin, AdGuard, 와이퍼와 같은 광고 차단 확장 프로그램이 티비플의 동영상 광고를 차단하게 해주는 필터입니다.
 
 ```

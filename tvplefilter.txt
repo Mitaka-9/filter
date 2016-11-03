@@ -7,3 +7,5 @@ tvple.com#@#.text_ad
 tvple.com#@#.text_ads
 tvple.com#@#.text-ads
 tvple.com#@#.text-ad-links
+
+@@||tvple.com^$generichide
